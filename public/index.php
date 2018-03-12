@@ -21,5 +21,14 @@ echo '<br>';
 echo $calc->multiply(2, 3);
 
 ?>
+<hr> 
+En console:<br>
+
+C:\laragon\www\phpunit-travis-ci-coverage-example (master)<br>
+λ phpunit  --coverage-html public/src
+<hr>
+Puis aller sur:<br>
+ <a href="http://phpunit-travis-ci-coverage-example/src/">page résultat du coverage</a>
+
 </body>
 </html>
