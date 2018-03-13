@@ -18,7 +18,7 @@
     ]
   },
   "scripts": {
-    "test": "./vendor/bin/phpunit"
+    "test": "phpunit"
   },
   "config": {
     "preferred-install": "dist",
